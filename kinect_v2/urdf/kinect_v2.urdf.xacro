@@ -19,7 +19,7 @@
             <visual>
                 <origin xyz="0 0 0" rpy="0 0 0" />
                 <geometry>
-                    <mesh filename="package://dhbot_description/meshes/kinect2.STL" />
+                    <mesh filename="package://kinect_v2/meshes/kinect2.STL" />
                 </geometry>
                 <material name="">
                     <color rgba="0.5 0.5 0.5 1" />
@@ -28,7 +28,7 @@
             <collision>
                 <origin xyz="0 0 0" rpy="0 0 0" />
                 <geometry>
-                    <mesh filename="package://dhbot_description/meshes/kinect2.STL" />
+                    <mesh filename="package://kinect_v2/meshes/kinect2.STL" />
                 </geometry>
             </collision>
         </link>
